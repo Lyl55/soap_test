@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ClientSOAP\ClientSOAP\obj\Debug\ClientSOAP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ClientSOAP\ClientSOAP\obj\Debug\ClientSOAP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClientSOAP\ClientSOAP\bin\Debug\ClientSOAP.exe.config
+C:\Users\user\source\repos\ClientSOAP\ClientSOAP\bin\Debug\ClientSOAP.exe
+C:\Users\user\source\repos\ClientSOAP\ClientSOAP\bin\Debug\ClientSOAP.pdb
+C:\Users\user\source\repos\ClientSOAP\ClientSOAP\obj\Debug\ClientSOAP.exe
+C:\Users\user\source\repos\ClientSOAP\ClientSOAP\obj\Debug\ClientSOAP.pdb
